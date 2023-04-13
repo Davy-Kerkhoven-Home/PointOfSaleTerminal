@@ -1,0 +1,6 @@
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\PointOfSaleTerminal.dll
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\bin\Debug\PointOfSaleTerminal.pdb
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\PointOfSaleTerminal.csproj.AssemblyReference.cache
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\PointOfSaleTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\PointOfSaleTerminal.dll
+C:\Users\Davy\source\repos\PointOfSaleTerminal\PointOfSaleTerminal\obj\Debug\PointOfSaleTerminal.pdb

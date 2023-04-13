@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleTerminal", "PointOfSaleTerminal\PointOfSaleTerminal.csproj", "{B653244D-AE6C-40B7-B49E-6F74D5B00AA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointOfSaleTerminal.Tests", "PointOfSaleTerminal.Tests\PointOfSaleTerminal.Tests.csproj", "{93583909-0CBA-4AFF-BFAC-FF5F751E5E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B653244D-AE6C-40B7-B49E-6F74D5B00AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B653244D-AE6C-40B7-B49E-6F74D5B00AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B653244D-AE6C-40B7-B49E-6F74D5B00AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B653244D-AE6C-40B7-B49E-6F74D5B00AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93583909-0CBA-4AFF-BFAC-FF5F751E5E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93583909-0CBA-4AFF-BFAC-FF5F751E5E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93583909-0CBA-4AFF-BFAC-FF5F751E5E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93583909-0CBA-4AFF-BFAC-FF5F751E5E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C641AD6-51F1-4895-8848-4B7F226C4765}
+	EndGlobalSection
+EndGlobal
